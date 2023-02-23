@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zlukaprapor/eCommerce-app-react.git/static/css/main.9e410d5a.css",
+    "main.js": "/zlukaprapor/eCommerce-app-react.git/static/js/main.1057eb9a.js",
+    "static/media/1234.webp": "/zlukaprapor/eCommerce-app-react.git/static/media/1234.526f537fe41dc76db5f0.webp",
+    "index.html": "/zlukaprapor/eCommerce-app-react.git/index.html",
+    "main.9e410d5a.css.map": "/zlukaprapor/eCommerce-app-react.git/static/css/main.9e410d5a.css.map",
+    "main.1057eb9a.js.map": "/zlukaprapor/eCommerce-app-react.git/static/js/main.1057eb9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e410d5a.css",
+    "static/js/main.1057eb9a.js"
+  ]
+}
