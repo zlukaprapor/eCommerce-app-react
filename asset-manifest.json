@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zlukaprapor/eCommerce-app-react.git/static/css/main.9e410d5a.css",
-    "main.js": "/zlukaprapor/eCommerce-app-react.git/static/js/main.1057eb9a.js",
-    "static/media/1234.webp": "/zlukaprapor/eCommerce-app-react.git/static/media/1234.526f537fe41dc76db5f0.webp",
-    "index.html": "/zlukaprapor/eCommerce-app-react.git/index.html",
-    "main.9e410d5a.css.map": "/zlukaprapor/eCommerce-app-react.git/static/css/main.9e410d5a.css.map",
-    "main.1057eb9a.js.map": "/zlukaprapor/eCommerce-app-react.git/static/js/main.1057eb9a.js.map"
+    "main.css": "/eCommerce-app-react/static/css/main.fb3e9b0e.css",
+    "main.js": "/eCommerce-app-react/static/js/main.1057eb9a.js",
+    "static/media/1234.webp": "/eCommerce-app-react/static/media/1234.526f537fe41dc76db5f0.webp",
+    "index.html": "/eCommerce-app-react/index.html",
+    "main.fb3e9b0e.css.map": "/eCommerce-app-react/static/css/main.fb3e9b0e.css.map",
+    "main.1057eb9a.js.map": "/eCommerce-app-react/static/js/main.1057eb9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e410d5a.css",
+    "static/css/main.fb3e9b0e.css",
     "static/js/main.1057eb9a.js"
   ]
 }
