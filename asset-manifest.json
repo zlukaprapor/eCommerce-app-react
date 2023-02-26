@@ -1,14 +1,21 @@
 {
   "files": {
     "main.css": "/eCommerce-app-react/static/css/main.fb3e9b0e.css",
-    "main.js": "/eCommerce-app-react/static/js/main.1057eb9a.js",
+    "main.js": "/eCommerce-app-react/static/js/main.56103cd7.js",
+    "static/media/narzo.webp": "/eCommerce-app-react/static/media/narzo.a62cdddae9fdbe6d552d.webp",
+    "static/media/Samsung.webp": "/eCommerce-app-react/static/media/Samsung.fd4a2e3765c6156c70fd.webp",
+    "static/media/oppo.webp": "/eCommerce-app-react/static/media/oppo.039e6da1f682a73a28f0.webp",
+    "static/media/123.webp": "/eCommerce-app-react/static/media/123.2b608fa81e035a96a68b.webp",
     "static/media/1234.webp": "/eCommerce-app-react/static/media/1234.526f537fe41dc76db5f0.webp",
+    "static/media/img_0_60_8389_3_1.webp": "/eCommerce-app-react/static/media/img_0_60_8389_3_1.1911c7f570fd44e023bb.webp",
+    "static/media/xiaomi.webp": "/eCommerce-app-react/static/media/xiaomi.8eb0e1ba2346b5ad37c9.webp",
+    "static/media/apple.webp": "/eCommerce-app-react/static/media/apple.d297f88d5528a1790023.webp",
     "index.html": "/eCommerce-app-react/index.html",
     "main.fb3e9b0e.css.map": "/eCommerce-app-react/static/css/main.fb3e9b0e.css.map",
-    "main.1057eb9a.js.map": "/eCommerce-app-react/static/js/main.1057eb9a.js.map"
+    "main.56103cd7.js.map": "/eCommerce-app-react/static/js/main.56103cd7.js.map"
   },
   "entrypoints": [
     "static/css/main.fb3e9b0e.css",
-    "static/js/main.1057eb9a.js"
+    "static/js/main.56103cd7.js"
   ]
 }
