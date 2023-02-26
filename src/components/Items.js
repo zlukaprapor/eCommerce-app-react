@@ -3,9 +3,11 @@ import { Item } from './Item';
 
 export class Items extends Component {
   render() {
+    const { items } = this.props;
+
     return (
       <main>
-        {this.props.items.map((el) => (
+        {items.map((el) => (
           <Item key={el.id} item={el} onAdd={this.props.onAdd} />
         ))}
       </main>

@@ -23,6 +23,7 @@ const showNothing = () => {
     </div>
   );
 };
+
 export function Header(props) {
   let [cartOpen, setCartOpen] = React.useState(false);
 
